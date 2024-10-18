@@ -1,0 +1,294 @@
+.thankyou {
+    font-family: Lato, sans-serif;
+    background-color: #f9f9f9;
+    height: 170px;
+    padding: 70px 0px;
+}
+
+.thank {
+    height: 170px;
+    padding: 0px 12px;
+    margin: 0px 105px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.maintitle {
+    font-size: 32px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: #222222;
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: center;
+    align-items: center;
+    height: 32px;
+}
+
+.maintext {
+    font-size: 18px;
+    text-transform: capitalize;
+    color: #777777;
+    line-height: 24px;
+    margin-bottom: 1rem;
+    margin-top: 0px;
+    text-align: center;
+    align-items: center;
+}
+
+.maintext2 {
+    font-size: 18px;
+    text-transform: capitalize;
+    margin: 0;
+    color: #777777;
+    line-height: 24px;
+    text-align: center;
+}
+
+.details {
+    height: 373px;
+    padding: 70px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.detail {
+    height: 373px;
+    padding: 0px;
+    max-width: 0px 105px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.detailleft {
+    font-family: Lato, sans-serif;
+    width: 546px;
+    height: 373px;
+    padding: 0px 12px;
+}
+
+.detailtitle {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #000000;
+    margin-top: 0;
+    margin-bottom: -2px;
+    font-size: 24px;
+    width: 546px;
+    height: 29px;
+}
+
+.product {
+    margin: 15px -12px 0px -12px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 570px;
+    height: 130px;
+}
+
+.producabject {
+    display: flex;
+    align-items: center;
+    width: 118px;
+    height: 130px;
+    padding: 0px 12px;
+}
+
+.producttitr {
+    width: 90px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    font-size: 18px;
+    line-height: 1;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.producttitr2 {
+    text-transform: capitalize;
+    font-size: 16px;
+    color: #222222;
+    line-height: 24px;
+    margin: 0;
+}
+
+.totals {
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    margin: 15px 0px;
+    padding: 15px 0px;
+    width: 546px;
+    height: 99px;
+    gap: 9px;
+}
+
+.totalslist {
+    width: 546px;
+    height: 27px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-transform: capitalize;
+    font-size: 18px;
+    list-style-type: disc;
+    padding-bottom: 0px;
+    margin: 0px;
+    color: #222222;
+}
+
+.sumTotal {
+    width: 546px;
+    height: 29px;
+}
+
+.sumAllTotal {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #000000;
+    margin-bottom: -2px;
+    font-size: 24px;
+    padding: 0;
+    margin: 0;
+}
+
+.detailright {
+    font-family: Lato, sans-serif;
+    width: 570px;
+    height: 373px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.summery {
+    width: 260px;
+    height: 138px;
+    padding: 0px 12px;
+}
+
+.summeryTitle {
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 18px;
+    line-height: 1;
+    width: 260px;
+    height: 18px;
+    margin-bottom: 8px;
+    margin-top: 0px;
+}
+
+.orderdetail {
+    width: 260px;
+    height: 84px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.listorder {
+    width: 260px;
+    height: 28px;
+    display: flex;
+    text-transform: capitalize;
+    line-height: 28px;
+    font-size: 16px;
+    list-style-type: none;
+    color: #212529;
+}
+
+.shippingAddress {
+    width: 260px;
+    height: 138px;
+    padding: 0px 12px;
+}
+
+.orderdetail2 {
+    width: 260px;
+    height: 112px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.paymentMethod {
+    width: 546px;
+    height: 78px;
+    padding: 0px 12px;
+}
+
+.paymentTitle {
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 18px;
+    line-height: 1;
+    width: 546px;
+    height: 18px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    padding: 0px;
+}
+
+.paymentTitle2 {
+    font-size: 16px;
+    line-height: 26px;
+    color: #777777;
+    width: 546px;
+    height: 54px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.deliverydata {
+    width: 546px;
+    height: 157px;
+    padding: 0px 12px;
+    margin: 0px;
+}
+
+.deliverysec {
+    padding: 30px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    background-color: #f9f9f9;
+    width: 486px;
+    height: 77px;
+}
+
+.deliverytitr {
+    color: #000000;
+    text-transform: capitalize;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+    width: 486px;
+    height: 29px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.deliverymoon {
+    color: #000000;
+    text-transform: capitalize;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    width: 486px;
+    height: 32px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}

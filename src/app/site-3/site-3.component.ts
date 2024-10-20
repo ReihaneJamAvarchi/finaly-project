@@ -4,14 +4,14 @@ import { log } from 'console';
 import { Product } from '../comment.interface/comment.interface';
 
 @Component({
-  selector: 'app-site-2',
+  selector: 'app-site-3',
   standalone: true,
   imports: [],
-  templateUrl: './site-2.component.html',
-  styleUrl: './site-2.component.css'
+  templateUrl: './site-3.component.html',
+  styleUrl: './site-3.component.css'
 })
 
-export class Site2Component implements OnInit {
+export class Site3Component implements OnInit {
   productList!: any;
 
 
